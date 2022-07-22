@@ -1,5 +1,10 @@
 ### Hi there 👋
+### I'm victor and I'm a front-end developer. 
 
+```
+I love develop systems that the people will can use to be easier their tasks. 📋
+I think that is fantastic how a system can solve the problems.
+```
 <!--
 **VictorTamayoBriones/VictorTamayoBriones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
