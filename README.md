@@ -5,16 +5,16 @@
 I love develop systems that the people will can use to be easier their tasks. 📋
 I think that is fantastic how a system can solve the problems.
 ```
-## My Stack 
+### My Stack 
 I'm currently working with this technologies.
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,angular,firebase,mongo,postgres" width="60%" />
+  <img src="https://skillicons.dev/icons?i=js,react,angular,firebase,mongo,postgres" width="30%" />
 </p>
 
 ### I’m currently learning abouth this technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,swift," width="30%" />
+  <img src="https://skillicons.dev/icons?i=go,swift," width="15%" />
 </p>
 
 <!--
