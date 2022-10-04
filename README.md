@@ -14,7 +14,7 @@ I'm currently working with this technologies. [View my portfolio](https://victor
 ### I’m currently learning abouth this technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,swift," width="15%" />
+  <img src="https://skillicons.dev/icons?i=go,vue," width="15%" />
 </p>
 
 <!--
